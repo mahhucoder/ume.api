@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\FinalUniversity\ThucTapChuyenNganh\umee.api" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="umee.api" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AccountsController.cs" t="Include" />
+          <e p="CategorysController.cs" t="Include" />
+          <e p="ProductsController.cs" t="Include" />
+          <e p="ReceiptDetailsController.cs" t="Include" />
+          <e p="ReceiptsController.cs" t="Include" />
+          <e p="RequestsController.cs" t="Include" />
+          <e p="UmeeBaseController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net6.0" t="Include">
+              <e p="umee.api.AssemblyInfo.cs" t="Include" />
+              <e p="umee.api.GlobalUsings.g.cs" t="Include" />
+              <e p="umee.api.MvcApplicationPartsAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="umee.api.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="umee.api.sln" t="IncludeFlat" />
+      <e p="umee.core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="Category.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="Receipt.cs" t="Include" />
+          <e p="ReceiptDetail.cs" t="Include" />
+          <e p="Request.cs" t="Include" />
+        </e>
+        <e p="Enum" t="Include">
+          <e p="UMEEEnum.cs" t="Include" />
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="HttpResponseExceptionFilter.cs" t="Include" />
+          <e p="UMEEException.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="Infrastructure" t="Include">
+            <e p="IAccountRepository.cs" t="Include" />
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="ICategoryRepository.cs" t="Include" />
+            <e p="IProductRepository.cs" t="Include" />
+            <e p="IReceiptDetailRepository.cs" t="Include" />
+            <e p="IReceiptRepository.cs" t="Include" />
+            <e p="IRequestRepository.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="IAccountService.cs" t="Include" />
+            <e p="IBaseService.cs" t="Include" />
+            <e p="ICategoryService.cs" t="Include" />
+            <e p="IProductService.cs" t="Include" />
+            <e p="IReceiptDetailService.cs" t="Include" />
+            <e p="IReceiptService.cs" t="Include" />
+            <e p="IRequestService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net6.0" t="Include">
+              <e p="umee.core.AssemblyInfo.cs" t="Include" />
+              <e p="umee.core.GlobalUsings.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="AccountService.cs" t="Include" />
+          <e p="BaseService.cs" t="Include" />
+          <e p="CategoryService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
+          <e p="ReceiptDetailService.cs" t="Include" />
+          <e p="ReceiptService.cs" t="Include" />
+          <e p="RequestService.cs" t="Include" />
+        </e>
+        <e p="umee.core.csproj" t="IncludeRecursive" />
+        <e p="UMEEAttribute" t="Include">
+          <e p="UMEEAttribute.cs" t="Include" />
+        </e>
+      </e>
+      <e p="umee.infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net6.0" t="Include">
+              <e p="umee.infrastructure.AssemblyInfo.cs" t="Include" />
+              <e p="umee.infrastructure.GlobalUsings.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="AccountRepository.cs" t="Include" />
+          <e p="BaseRepository.cs" t="Include" />
+          <e p="CategoryRepository.cs" t="Include" />
+          <e p="ProductRepository.cs" t="Include" />
+          <e p="ReceiptDetailRepository.cs" t="Include" />
+          <e p="ReceiptRepository.cs" t="Include" />
+          <e p="RequestRepository.cs" t="Include" />
+        </e>
+        <e p="umee.infrastructure.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\mahhu\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mahhu\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_umee.api.-1226222848.00" t="ExcludeRecursive" />
+  </component>
+</project>

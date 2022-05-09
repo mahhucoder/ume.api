@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\FinalUniversity\\ThucTapChuyenNganh\\umee.api\\umee.core\\umee.core.csproj",
+    "projectName": "umee.core",
+    "projectPath": "C:\\FinalUniversity\\ThucTapChuyenNganh\\umee.api\\umee.core\\umee.core.csproj",
+    "outputPath": "C:\\FinalUniversity\\ThucTapChuyenNganh\\umee.api\\umee.core\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net60"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp6.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp6.0": {
+      "dependencies": {
+        "Microsoft.AspNet.WebApi.Core": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Core": {
+          "target": "Package",
+          "version": "[2.2.5, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

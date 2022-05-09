@@ -1,0 +1,14 @@
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\bin\Debug\net6.0\umee.core.deps.json
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\bin\Debug\net6.0\umee.core.dll
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\bin\Debug\net6.0\umee.core.pdb
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.csproj.AssemblyReference.cache
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.Properties.Resources.resources
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.csproj.GenerateResource.cache
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.AssemblyInfoInputs.cache
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.AssemblyInfo.cs
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.csproj.CoreCompileInputs.cache
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.dll
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\refint\umee.core.dll
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\umee.core.pdb
+C:\FinalUniversity\ThucTapChuyenNganh\umee.api\umee.core\obj\Debug\net6.0\ref\umee.core.dll

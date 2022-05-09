@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c0LYUtB3b1rhdOMxUNvhdQFol61qMUwQFYScD6+L3v4=",
+  "Source": "umee.api",
+  "BasePath": "_content/umee.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
