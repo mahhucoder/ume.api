@@ -13,9 +13,11 @@ namespace umee.core.Entities
         public Guid RequestId { get; set; }
 
         [Require]
+        [Search]
         public string Name { get; set; }
 
         [Require]
+        [Search]
         public string PhoneNumber{ get; set; }
 
         [Require]
